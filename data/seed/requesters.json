@@ -1,0 +1,10 @@
+{
+  "history": {
+    "5001": { "total": 14, "building": 12, "business": 1, "gis": 1 },
+    "5002": { "total": 9, "building": 0, "business": 0, "gis": 9 },
+    "5003": { "total": 2, "building": 2, "business": 0, "gis": 0 }
+  },
+  "exceptions": [
+    { "requesterId": "7001", "city": "Willow Creek", "service": "Sensors", "note": "regional water agency: always the Willow Creek river sensors" }
+  ]
+}

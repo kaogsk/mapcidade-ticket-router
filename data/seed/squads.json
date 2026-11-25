@@ -1,0 +1,10 @@
+{
+  "permits": {
+    "Lara Okafor": { "id": "1001", "cities": ["Rivermeadow", "Lakeside", "Port Émeraude"] },
+    "Jonah Price": { "id": "1004", "cities": ["Oakwood", "Maple Falls"] }
+  },
+  "gis": {
+    "Marcus Hale": { "id": "1002", "cities": ["Rivermeadow", "Oakwood", "Elmhurst"] },
+    "Priya Nandi": { "id": "1003", "cities": ["Lakeside", "Stonebridge", "Cedar Grove"] }
+  }
+}

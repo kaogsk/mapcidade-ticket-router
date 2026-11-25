@@ -1,0 +1,15 @@
+{
+  "triageAgent": { "id": "1900", "name": "Dana Fox" },
+  "agents": [
+    { "id": "1001", "name": "Lara Okafor", "level": "N1", "active": true },
+    { "id": "1002", "name": "Marcus Hale", "level": "N1", "active": true },
+    { "id": "1003", "name": "Priya Nandi", "level": "N1", "active": true },
+    { "id": "1004", "name": "Jonah Price", "level": "N2", "active": true },
+    { "id": "1005", "name": "Elena Duarte", "level": "N2", "active": true },
+    { "id": "1006", "name": "Victor Lund", "level": "N1", "active": false }
+  ],
+  "interns": [
+    { "id": "1501", "name": "Kai Moreno", "type": "gis" },
+    { "id": "1502", "name": "Noor Haddad", "type": "permits" }
+  ]
+}

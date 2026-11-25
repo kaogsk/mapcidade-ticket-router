@@ -1,0 +1,15 @@
+{
+  "cities": [
+    { "name": "Rivermeadow", "plan": "Gold", "projectCode": "PM_RIVERMEADOW_01_2026", "emailDomains": ["rivermeadow.gov.example"] },
+    { "name": "Lakeside", "plan": "Silver", "projectCode": "PM_LAKESIDE_02_2025", "emailDomains": ["lakeside.gov.example"] },
+    { "name": "Oakwood", "plan": "Gold", "projectCode": "PM_OAKWOOD_01_2025", "emailDomains": ["oakwood.gov.example"] },
+    { "name": "Elm", "plan": "Bronze", "projectCode": "PM_ELM_01_2026", "emailDomains": ["elm-city.gov.example"] },
+    { "name": "Elmhurst", "plan": "Silver", "projectCode": "PM_ELMHURST_01_2024", "emailDomains": ["elmhurst.gov.example"] },
+    { "name": "Stonebridge", "plan": "Silver", "projectCode": "PM_STONEBRIDGE_01_2025", "emailDomains": ["stonebridge.gov.example"] },
+    { "name": "Maple Falls", "plan": "Bronze", "projectCode": "PM_MAPLEFALLS_01_2026", "emailDomains": ["maplefalls.gov.example"] },
+    { "name": "Cedar Grove", "plan": "Gold", "projectCode": "PM_CEDARGROVE_01_2025", "emailDomains": ["cedargrove.gov.example"] },
+    { "name": "Willow Creek", "plan": "Bronze", "projectCode": "PM_WILLOWCREEK_01_2026", "emailDomains": ["willowcreek.gov.example"] },
+    { "name": "Northgate", "plan": "Silver", "projectCode": "PM_NORTHGATE_01_2025", "emailDomains": ["northgate.gov.example"] },
+    { "name": "Port Émeraude", "plan": "Gold", "projectCode": "PM_PORTEMERAUDE_01_2026", "emailDomains": ["portemeraude.gov.example"] }
+  ]
+}
